@@ -21,17 +21,18 @@
 9、对接方式简单易懂，聚合了支付宝，微信，操作简单，容易上手，一次配置，终身免费使用。
 
 
-<hr>
+# 关于APP
+手机无需root权限，非xposed框架。
 
 
-用户支付页面
+# 用户支付页面
 
 ![image](https://github.com/apppay/ManyUsers/blob/master/0.jpg)
 
 <br>
 <br>
 
-清晰明了的后台数据，
+# 清晰明了的后台数据，
 
 ![image](https://github.com/apppay/ManyUsers/blob/master/1.png)
 
@@ -40,9 +41,9 @@
 ![image](https://github.com/apppay/ManyUsers/blob/master/3.png)
 
 
-<hr>
+# 说明
 
-说明-源码目前只提供付费分享，需要源码的话请联系：<a target="_blank" href="http://wpa.qq.com/msgrd?v=3&uin=754219009&site=qq&menu=yes"><img border="0" src="http://wpa.qq.com/pa?p=2:754219009:51" alt="点击这里给我发消息" title="点击这里给我发消息"/></a>
+源码目前只提供付费分享，需要源码的话请联系：<a target="_blank" href="http://wpa.qq.com/msgrd?v=3&uin=754219009&site=qq&menu=yes"><img border="0" src="http://wpa.qq.com/pa?p=2:754219009:51" alt="点击这里给我发消息" title="点击这里给我发消息"/></a>
 <br>
 <br>
 支持付费直接下载demo :  <a href="http://apppay.xyz/pay3/">http://apppay.xyz/pay_user/</a>
