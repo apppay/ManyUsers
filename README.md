@@ -23,13 +23,15 @@
 
 <hr>
 
-用户支付页
+
+用户支付页面
+
 ![image](https://github.com/apppay/ManyUsers/blob/master/0.jpg)
 
+<br>
+<br>
 
-<hr>
-
-清晰明了的后台，
+清晰明了的后台数据，
 
 ![image](https://github.com/apppay/ManyUsers/blob/master/1.png)
 
@@ -38,6 +40,7 @@
 ![image](https://github.com/apppay/ManyUsers/blob/master/3.png)
 
 
+<hr>
 
 说明-源码目前只提供付费分享，需要源码的话请联系：<a target="_blank" href="http://wpa.qq.com/msgrd?v=3&uin=754219009&site=qq&menu=yes"><img border="0" src="http://wpa.qq.com/pa?p=2:754219009:51" alt="点击这里给我发消息" title="点击这里给我发消息"/></a>
 <br>
