@@ -53,7 +53,7 @@
 源码目前只提供付费分享，需要源码的话请联系：<a target="_blank" href="http://wpa.qq.com/msgrd?v=3&uin=862766409&site=qq&menu=yes"><img border="0" src="http://wpa.qq.com/pa?p=2:862766409:51" alt="点击这里给我发消息" title="点击这里给我发消息"/></a>
 <br>
 <br>
-支持付费直接下载demo :  <a href="http://apppay.xyz/pay3/">http://apppay.xyz/pay_user/</a>
+支持付费直接下载demo :  <a href="http://apppay.xyz/pay_user/">http://apppay.xyz/pay_user/</a>
 <br>
 <br>
 官网：<a href="http://apppay.xyz">http://apppay.xyz</a>
