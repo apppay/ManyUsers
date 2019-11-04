@@ -30,7 +30,7 @@
 用户支付页面
 -
 
-![image](https://github.com/apppay/ManyUsers/blob/master/0.jpg)
+![image](https://gitee.com/apppay/imgs/blob/master/ManyUsers/pay2.png)
 
 <br>
 <br>
