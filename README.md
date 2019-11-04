@@ -30,7 +30,7 @@
 用户支付页面
 -
 
-![image](https://gitee.com/apppay/imgs/blob/master/ManyUsers/pay2.png)
+![image](http://www.apppay.xyz/index/githubimg/ManyUsers/user0.jpg)
 
 <br>
 <br>
@@ -38,13 +38,13 @@
 清晰明了的后台数据
 -
 
-![image](https://github.com/apppay/ManyUsers/blob/master/1.png)
+![image](http://www.apppay.xyz/index/githubimg/ManyUsers/user1.png)
 
-![image](https://github.com/apppay/ManyUsers/blob/master/4.png)
+![image](http://www.apppay.xyz/index/githubimg/ManyUsers/user2.png)
 
-![image](https://github.com/apppay/ManyUsers/blob/master/2.png)
+![image](http://www.apppay.xyz/index/githubimg/ManyUsers/user3.png)
 
-![image](https://github.com/apppay/ManyUsers/blob/master/3.png)
+![image](http://www.apppay.xyz/index/githubimg/ManyUsers/user4.png)
 
 
 说明
@@ -74,6 +74,7 @@
 <a href="https://github.com/apppay/dfpay">H5支付，淘宝代付</a><br>
 <a href="https://github.com/apppay/h5pay">H5支付，个人支付宝使用H5拉起支付</a><br>
 <a href="https://github.com/apppay/h5toyh">H5支付，个人支付宝使用H5拉起转账到银行卡</a><br>
+<a href="https://github.com/apppay/zztopayfx">支付宝转账到个人支付宝（飞行模式）</a><br>
 <a href="https://github.com/apppay/h5toyhfx">支付宝扫码转账到银行卡（飞行模式）</a><br>
 <a href="https://github.com/apppay/zztoyh">支付宝扫码转账到银行卡</a><br>
 <a href="https://github.com/apppay/zhifubao">支付宝，收款二维码实时生成，生成自定义金额与不可修改金额和备注信息</a><br>
